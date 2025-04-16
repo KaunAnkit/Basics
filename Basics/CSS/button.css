@@ -1,0 +1,11 @@
+#TON
+{
+    background-color: green;
+    border-radius: 10px;
+    align-items: center;
+}
+#TON:hover
+{
+    background-color: red;
+    
+}

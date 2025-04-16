@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    
+    
+}
+nav{
+    background-color: aqua;
+}
+nav a {
+    text-decoration: none;
+    margin-left: 100px;
+    
+}
+
+img
+{
+    height: 100px;
+    width: 100px;
+    
+}
+#imgcont
+{
+    align-items: center;
+    border: 5px black;
+}
